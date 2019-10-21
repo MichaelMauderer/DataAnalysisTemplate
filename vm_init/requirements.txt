@@ -37,7 +37,7 @@ python-dateutil==2.0
 pytz==2012c
 pyzmq==14.7.0
 qtconsole==4.0.1
-requests==2.2.1
+requests==2.20.0
 rpy2==2.4.4
 scikits.bootstrap==0.3.2
 scipy==0.16.0
