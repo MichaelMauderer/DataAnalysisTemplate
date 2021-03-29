@@ -1,6 +1,6 @@
 Jinja2==2.8
 MarkupSafe==0.23
-Pygments==2.0.2
+Pygments==2.7.4
 chardet==2.2.1
 colorama==0.2.5
 colour-science==0.3.6
